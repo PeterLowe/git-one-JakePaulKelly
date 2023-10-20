@@ -24,4 +24,14 @@ Updates remote node with the current node.
 - git branch
 This command creates a new branch in the local repository.  
 
--git
+-git checkout
+Ensures that the current working directory matches that node.  
+
+-git merge
+
+Merges the head with the master, Git will then automatically apply changes, warn if it is unable to merge.  
+
+
+-git log
+
+Lists out all the commits that have been previously made.  
