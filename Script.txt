@@ -18,4 +18,5 @@ Joins files that have been commited to the current repository.
 -git remote
 Shows all the repositories in a remote server. 
 
-
+-git push
+Updates remote node with the current node.  
