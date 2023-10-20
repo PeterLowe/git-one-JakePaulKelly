@@ -35,3 +35,18 @@ Merges the head with the master, Git will then automatically apply changes, warn
 -git log
 
 Lists out all the commits that have been previously made.  
+
+-git clone 
+This command allows the user to create a copy of a repository from GitHub to then work on it locally.
+ 
+
+-git pull
+Allows the user to pull from remote repositories to then be worked on in a local repository.
+ 
+
+-git stash
+creates a local copy of the working directory.  
+
+-git rm
+allows the user to remove files in the staging index or working directory.
+ 
