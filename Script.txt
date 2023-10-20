@@ -15,4 +15,7 @@ Lists any files that have been modified or added, lists the files, and tells you
 -git commit
 Joins files that have been commited to the current repository.  
 
--git
+-git remote
+Shows all the repositories in a remote server. 
+
+
