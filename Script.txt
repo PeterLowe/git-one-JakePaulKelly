@@ -8,4 +8,11 @@ This command creates and or reinitializes previous repositories in a certain fol
 
 -git add
 Adds new files to the next commit, If you wish to modify, re-add.
+ 
+-git status
+Lists any files that have been modified or added, lists the files, and tells you your current branch.  
 
+-git commit
+Joins files that have been commited to the current repository.  
+
+-git
