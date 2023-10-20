@@ -1,0 +1,10 @@
+Communications Class
+Jake Kelly’s Lab on Git ☻
+20/10/2023
+
+-git init
+This command creates and or reinitializes previous repositories in a certainfolder.
+ 
+
+-git add
+
